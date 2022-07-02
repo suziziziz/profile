@@ -1,4 +1,4 @@
-Hello there 👋, welcome to my github profile!!! My name is Filype, I'm 18 years old, and I love learning everything about technology.
+Hello there 👋, welcome to my github profile!!! My name is Filype, I'm 19 years old, and I love learning everything about technology.
 
 Well... I want to talk a little about myself
 
