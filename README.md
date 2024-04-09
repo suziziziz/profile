@@ -7,4 +7,4 @@ Well... I want to talk a little about myself
 - 🕴 I have 2 years of professional experience in programming
 - 🐖 That's all, folks!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suziziziz)](https://github.com/suziziziz/suziziziz)
